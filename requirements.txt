@@ -1,0 +1,10 @@
+jsonmerge
+selenium==4.*
+psutil
+pytest==7.4.4
+pytest-variables
+pytest-selenium
+browserstack-sdk
+pytest-html==3.2.0
+playwright
+requests
